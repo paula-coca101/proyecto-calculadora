@@ -10,3 +10,7 @@ Aplicación web sencilla que permite realizar operaciones básicas: suma, resta,
 - HTML
 - CSS
 - JavaScript
+
+## Instalación y ejecución
+1. Clonar el repositorio
+2. Abrir el archivo src/index.html en el navegador
